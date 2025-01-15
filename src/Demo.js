@@ -21,7 +21,7 @@ function Demo() {
   return (
     <div>
         {courses}
-      <p>From Varu</p>123
+      <p>From Varu 1</p>123
     </div>
   )
 }
